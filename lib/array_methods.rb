@@ -8,5 +8,5 @@ array.max_by do |element|
 end
 
 def find_min_value(array)
-  find_min_value(array)
+
 end
